@@ -129,7 +129,10 @@ _Bachelor of Science in Gaming & Animation_
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" valign="top">
-      <!-- Add another project or leave blank -->
+      <a href="[https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense](https://youtube.com/shorts/XCHwhOjssQU?feature=share)">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/ED3.jpg" width="180" alt="Jackpot Casino Slot Game"/><br/>
+        <b>Elements Defense</b>
+      </a>
     </td>
   </tr>
 </table>
